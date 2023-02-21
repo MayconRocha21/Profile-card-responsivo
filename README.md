@@ -1,6 +1,6 @@
 # Profile-card-responsivo.
 
-Card de perfil com formulario de contato criado apenas com as tecnologias HTML e CSS e Media queries.
+Card de perfil com formulario de contato criado apenas com as tecnologias HTML, CSS e Media queries.
 
 Deploy: https://mayconrocha21.github.io/Profile-card-responsivo/
 
